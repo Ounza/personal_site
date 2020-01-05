@@ -1,0 +1,135 @@
+@charset "utf-8";
+/* CSS Document */
+.top_container{
+	background-color: #E0EBE8;
+	position: relative;
+	padding-top: 100px;
+}
+.middle_container{
+	margin: 100px 0;
+}
+.bottom_container{
+	background-color: #C5DeD7;
+	padding: 3em 0;
+
+}
+.bottom-cloud{
+	height: 100px;
+	width: 200px;
+	position: absolute;
+	left: 100px;
+	bottom: 300px;
+	color: #EFFFFB;
+}
+.top-cloud{
+	height: 100px;
+	width: 200px;
+	position: absolute;
+	right: 200px;
+	top: 50px;
+}
+.rush{
+	width: 250px;
+	height: 250px;
+	border-radius: 50px;
+}
+.programmer{
+	font-weight: normal;
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+.router{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.firewall{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+.hello{
+	margin: auto;
+	width: 30%;
+}
+.btn
+{
+font-family: 'Montserrat', sans-serif;
+color: rgb(230, 230, 230);
+font-size: 20px;
+padding: 20px;
+text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
+background: rgb(0, 0, 255);
+background: -moz-linear-gradient(90deg, rgb(0, 0, 255) 30%, rgb(0, 0, 255) 70%);
+background: -webkit-linear-gradient(90deg, rgb(0, 0, 255) 30%, rgb(0, 0, 255) 70%);
+background: -o-linear-gradient(90deg, rgb(0, 0, 255) 30%, rgb(0, 0, 255) 70%);
+background: -ms-linear-gradient(90deg, rgb(0, 0, 255) 30%, rgb(0, 0, 255) 70%);
+background: linear-gradient(0deg, rgb(0, 0, 255) 30%, rgb(0, 0, 255) 70%);
+-webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+text-decoration: none;
+}
+.h2{
+	padding-bottom: 10px;
+}
+.contact-message{
+	width: 40%;
+	margin: 60px auto 60px;
+}
+.copyright{
+	color: #EAF6F6;
+	padding: 20px 0;
+	font-size: 0.75rem;
+}
+a{
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+}
+a:hover{
+	color: #EAF6F6;
+}
+body{
+	text-align: center;
+	margin: 0;
+	font-family: 'Merriweather', serif;
+	text-decoration: none;
+	
+}
+h1{
+	font-family: 'Sacramento', cursive;
+	margin-top: 50px;
+	margin-bottom: 0;
+	color:  #66BFBF;
+	font-size: 5.625rem;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	color:  #66BFBF;
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color:  #11999E;
+}
+a{
+	color:  #11999E;
+}
+hr{
+	border-style: none;
+	border-top-style:dotted;
+	border-color: grey;
+	border-top-width:10px;
+	width: 10%;
+	
+}
+p{
+	line-height: 2;
+}
